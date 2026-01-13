@@ -39,6 +39,8 @@ Data Requirements
 Ensure your data/ folder contains the following CSV files:
 players.csv, clubs.csv, competitions.csv, appearances.csv, and player_valuations.csv.
 
+Data was collected from 2012-2025.
+
 Launch the Engine
 --------------------------------------------------------------------
 streamlit run app.py
